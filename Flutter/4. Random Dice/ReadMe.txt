@@ -1,0 +1,1 @@
+In this project, I learned to use functions in flutter. This included built-in functions like the random number generator and custom functions I created myself. Additionally, I explored dynamic features to update the dice faces every time they are clicked.
