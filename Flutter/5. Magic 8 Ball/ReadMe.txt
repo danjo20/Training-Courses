@@ -1,0 +1,1 @@
+In this project, I created a magic ball that provides 5 different answers each time it is clicked.
