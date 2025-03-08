@@ -1,0 +1,1 @@
+In this project, I created a "Xylophone" with seven boxes, each producing a distinct sound when clicked.
