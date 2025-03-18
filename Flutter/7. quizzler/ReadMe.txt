@@ -1,1 +1,0 @@
-In this project, I created a quiz with 13 questions. Each question checks whether the answer is correct or incorrect. Once all the questions have been answered, the cycle restarts from the first question.
