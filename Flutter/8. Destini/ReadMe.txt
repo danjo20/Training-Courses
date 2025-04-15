@@ -1,0 +1,1 @@
+In this project, I created a story that unfolds based on the choices made by the user. It's similar to Black Mirror. The sequence is short and features only three possible endings.
